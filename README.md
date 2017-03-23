@@ -1,6 +1,7 @@
 # Turing Fridays
 
-[Use the live app here!] (https://turing-fridays.firebaseapp.com/)
+[Use the live app here!](https://turing-fridays.firebaseapp.com/)  
+*** requires login authentication with GitHub through Google Firebase ***
 
 ## Installation
 
